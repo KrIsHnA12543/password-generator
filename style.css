@@ -4,7 +4,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: 'League Spartan',sans-serif;
+    font-family: 'Orbitron', sans-serif;
 }
 body{
     background-image: linear-gradient(to left,rgb(26, 16, 95),rgb(50, 13, 80));
@@ -34,6 +34,7 @@ h1{
 .display-container{
     position: relative;
     background-color: rgb(41, 4, 57);
+    /* background-image: linear-gradient(rgb(110, 6, 247),rgb(47, 5, 71)); */
     border-radius: 1rem;
     border-bottom: 0.35rem solid rgb(191, 88, 236);
     margin: 1rem 0;
@@ -72,6 +73,7 @@ h1{
 .input-container{
     width: 100%;
     background-color: rgb(42, 6, 57);
+    /* background-image: linear-gradient(rgb(110, 6, 247),rgb(47, 5, 71)); */
     border-radius: 1rem;
     padding: 2rem;
     border-bottom: 0.35rem solid rgb(191, 88, 236);    
@@ -111,7 +113,8 @@ h1{
 .generateButton{
     width: 100%;
     padding: 1rem 0;
-    background-color: darkviolet;
+    /* background-color: darkviolet; */
+    background-image: linear-gradient(rgb(110, 6, 247),rgb(47, 5, 71));
     text-align: center;
     border-radius: 0.75rem;
     border-bottom: 0.35rem solid yellow;

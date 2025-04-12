@@ -4,6 +4,7 @@ A sleek and simple **Password Generator** web app that helps you create secure p
 
 Visit:  [Website Link](https://password-geen.netlify.app/) 
 
+![Preview](<images/Screenshot (5).png>)
 
 
 ## 🌟 Features
